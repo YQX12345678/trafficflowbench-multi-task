@@ -1,0 +1,11 @@
+pycache/
+.py[cod]
+.venv/
+.ipynb_checkpoints/
+data/
+weights/
+.pt
+.pth
+.parquet
+.csv
+!docs/**/.csv

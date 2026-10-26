@@ -1,0 +1,4 @@
+lam: 0.01
+max_change_frac: 0.10
+t2_ongoing_threshold: 0.40
+t2_onset_threshold: 0.50
