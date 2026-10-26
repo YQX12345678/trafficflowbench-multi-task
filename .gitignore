@@ -9,3 +9,5 @@ weights/
 .parquet
 .csv
 !docs/**/.csv
+__pycache__/
+*.pyc
